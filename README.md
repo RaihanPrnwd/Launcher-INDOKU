@@ -4,7 +4,6 @@ Launcher resmi untuk komunitas server **INDOKU**. Didesain untuk memberikan peng
 
 ## Fitur Utama
 * **Integrity Check**: Pemindaian otomatis untuk memastikan folder game bersih dari modifikasi ilegal (.asi, .dll).
-* **Auto-Mod Update**: Sinkronisasi otomatis mod kendaraan komunitas agar pemain selalu mendapatkan tampilan terbaru.
 * **Secure Connection**: Sistem verifikasi server untuk memastikan pemain menggunakan *launcher* resmi.
 
 ## Cara Penggunaan
