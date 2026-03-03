@@ -1,16 +1,18 @@
-# Launcher INDOKU
+# Selamat Datang di Launcher INDOKU v1.0.0
 
-Launcher resmi untuk komunitas server **INDOKU**. Didesain untuk memberikan pengalaman bermain yang stabil, aman, dan tanpa modifikasi ilegal.
+Launcher resmi untuk komunitas server INDOKU.
 
-## Fitur Utama
-* **Integrity Check**: Pemindaian otomatis untuk memastikan folder game bersih dari modifikasi ilegal (.asi, .dll).
-* **Secure Connection**: Sistem verifikasi server untuk memastikan pemain menggunakan *launcher* resmi.
+## Fitur Baru:
+* **Sistem Anti-Cheat**: Pemindaian otomatis untuk memastikan lingkungan bermain yang adil.
+* **Integrasi Server**: Verifikasi otomatis saat login ke dalam game.
 
-## Cara Penggunaan
-1. Jalankan `INDOKU_Launcher.exe`.
-2. Klik **Folder** dan arahkan ke lokasi instalasi GTA San Andreas Anda.
-3. Masukkan nickname yang akan digunakan.
-4. Klik **Play** dan selamat bermain!
+## Cara Instalasi:
+1. Download file `64-bit.INDOKU.zip / 32-bit.INDOKU.zip` di bawah ini.
+2. Tempatkan di folder mana saja (disarankan di Desktop).
+3. Jalankan aplikasi, arahkan ke folder GTA San Andreas Anda, dan tekan **Play**!
+
+## Perbaikan:
+* Initial release untuk komunitas INDOKU.
 
 ---
-*Dikembangkan oleh Tim INDOKU*
+*Dibuat dengan ❤️ untuk komunitas INDOKU.*
