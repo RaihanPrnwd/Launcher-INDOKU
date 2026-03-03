@@ -1,4 +1,4 @@
-# Selamat Datang di Launcher INDOKU v1.0.0
+# Selamat Datang di Launcher INDOKU
 
 Launcher resmi untuk komunitas server INDOKU.
 
