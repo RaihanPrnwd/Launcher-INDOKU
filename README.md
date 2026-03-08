@@ -7,8 +7,8 @@ Launcher resmi untuk komunitas server INDOKU.
 * **Integrasi Server**: Verifikasi otomatis saat login ke dalam game.
 * **Compatible**: 
 1. Silent Asi Loader
-2. Cleo
-3. Modloader 
+2. **[Cleo](https://github.com/cleolibrary/CLEO5/releases/download/v5.3.0/SA.CLEO-v5.3.0+Silent_ASI_Loader.zip)**
+3. [Modloader](https://github.com/thelink2012/modloader/releases/download/v0.3.7/modloader.zip)
 4. ENB Series | **[ENB_HighEND_PC](http://www.enbdev.com/enbseries_gtasa_v0430.zip) | [ENB_LowEND_PC](https://www.gtainside.com/en/sanandreas/mods/115854-freezin-s-enb-v3-1/)**
 5. SAMP Addon Versi 2.6 | **[Download](https://github.com/RaihanPrnwd/Launcher-INDOKU/releases/download/v1.0.3/SAMP_Addon_2.6_Setup.exe)**
 6. **[SA.Project2DFX](https://fusionfix.io/p2dfx)**
